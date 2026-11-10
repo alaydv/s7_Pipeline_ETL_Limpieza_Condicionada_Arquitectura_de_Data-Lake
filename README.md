@@ -1,0 +1,2 @@
+# s7_Pipeline_ETL_Limpieza_Condicionada_Arquitectura_de_Data-Lake
+Jupyter sobre ETL en google colab
